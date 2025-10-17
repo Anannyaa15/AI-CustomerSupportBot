@@ -1,0 +1,15 @@
+html, body, #root, .app-container {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #001f3f, #0074d9);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
