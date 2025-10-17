@@ -40,7 +40,7 @@ POST /api/query
 Example Response:
 
 {
-  "response": "To reset your password, click on 'Forgot Password' at login. If this doesn't work, please contact support@example.com.",
+  "response": "To reset your password, click on 'Forgot Password' at login. If this doesn't work, please contact anannyabhati15@gmail.com.",
   "escalationSuggested": false
 }
 
